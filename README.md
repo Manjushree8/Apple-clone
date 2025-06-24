@@ -92,7 +92,7 @@ Developed by [Manjushree V](https://github.com/Manjushree8)
 
 ## Live Demo
 
-Visit the live site: [Apple Clone Website](https://karthigap20.github.io/Apple-Clone/)
+Visit the live site: [Apple Clone Website](https://manjushree8.github.io/Apple-clone/)
 
 ## Feedback
 
